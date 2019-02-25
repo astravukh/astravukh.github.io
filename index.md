@@ -18,4 +18,4 @@ ASP.NET MVC, WEB API, REST, WCF, JS
  - 2010 ICND1 "Центр знаний"
  - 2000 - 2005 International Sakharov Environmental University
 
-<a href="https://www.codewars.com/users/astravukh" rel="Codewars">![badge](https://www.codewars.com/users/astravukh/badges/large)</a>
+<a href="https://www.codewars.com/users/astravukh" rel="Codewars">![badge](https://www.codewars.com/users/astravukh/badges/small)</a>
