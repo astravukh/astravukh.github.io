@@ -20,6 +20,7 @@ ASP.NET MVC, WEB API, REST, WCF, JS
 ### CodeWars
 <a href="https://www.codewars.com/users/astravukh" rel="Codewars">![badge](https://www.codewars.com/users/astravukh/badges/small)</a>
 ### Padawans
+- [Крестики-нолики](https://github.com/astravukh/TicTacToe)
 - [FancyCalc](https://github.com/astravukh/FancyCalc)
 - [PadawansTask1](https://github.com/astravukh/PadawansTask1)
 - [PadawansTask2](https://github.com/astravukh/PadawansTask2)
